@@ -23,7 +23,7 @@ Currently working on implementing a wordpress website using a mariadb database a
 ## C++ Piscine ![Date](https://img.shields.io/badge/In_progress-8/9-yellow)
 Learned the c++ std-98 basics and intermediates fundamentals through a series of modules and exercises. I had to implement my own classes, use containers, work with exceptions and use specific c++ functions. You can find the source code and documentation [here](https://github.com/FrancisL93/cpp-piscine).
 
-## NetPractice ![Date](https://img.shields.io/badge/2023--01--22-100%25-brightgreen
+## NetPractice ![Date](https://img.shields.io/badge/2023--01--22-100%25-brightgreen)
 Through network simulations I learned about packet routing, modems, routers, ips and masks.
 
 ## Cub3d ![Date](https://img.shields.io/badge/2022--12--19-125%25-brightgreen)
