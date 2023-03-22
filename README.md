@@ -1,4 +1,4 @@
-[profile-banner](github-header-image.png)
+![profile-banner](github-header-image.png)
 # Hi there, I'm Francis Lahoud!
 
 # About Me
