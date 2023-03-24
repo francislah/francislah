@@ -17,10 +17,10 @@ Database technologies: SQL
 Cloud computing:  
 
 # Projects
-## Inception  ![Date](https://img.shields.io/badge/Not_started-red)
+## Inception  ![Date](https://img.shields.io/badge/In_progress-yellow)
 Currently working on implementing a wordpress website using a mariadb database and NGINX server on three seperate docker images. You can find the source code and documentation [here](https://github.com/FrancisL93/inception).
 
-## C++ Piscine  ![Date](https://img.shields.io/badge/In_progress-8/9-yellow)
+## C++ Piscine  ![Date](https://img.shields.io/badge/2023--03--23-9/9-brightgreen)
 Learned the c++ std-98 basics and intermediates fundamentals through a series of modules and exercises. I had to implement my own classes, use containers, work with exceptions and use specific c++ functions. You can find the source code and documentation [here](https://github.com/FrancisL93/cpp-piscine).
 
 ## NetPractice  ![Date](https://img.shields.io/badge/2023--01--22-100%25-brightgreen)
@@ -39,7 +39,7 @@ I developed a multithreaded solution to the classic dining philosophers problem 
 ## Pipex  ![Date](https://img.shields.io/badge/2022--07--11-100%25-brightgreen)
 Pipex is a command-line utility program that simulates the behavior of the Unix pipeline, allowing users to redirect the input and output of two commands in a single command line. I learned about creating child processes, and setting up pipes for inter-process communication. You can find the source code and documentation [here](https://github.com/FrancisL93/pipex).
 
-## So_long  ![Date](https://img.shields.io/badge/2022--07--08-101%25-brightgreen)
+## So_long  ![Date](https://img.shields.io/badge/2022--07--08-115%25-brightgreen)
 So_Long is a 2D game written in C using the Minilibx graphics library, where the player must navigate a maze and collect items while avoiding obstacles. I was responsible for implementing the game logic, including collision detection, movement, and scoring. You can find the source code and documentation [here](https://github.com/FrancisL93/so_long).
 
 ## Push_Swap  ![Date](https://img.shields.io/badge/2022--06--23-86%25-brightgreen)
