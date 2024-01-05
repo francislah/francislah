@@ -76,7 +76,7 @@ Now completing my first internship at Korem where I learned how to use my newly 
   - *Subject:* Business Management
   - *Duration:* 09/2010 - 06/2013 (6 sessions)
   - *Diplomas:* DEC
-- **[Mont-Saint-Sacrement](https://www.mss.qc.ca/)
+- **[Mont-Saint-Sacrement](https://www.mss.qc.ca/)**
   - *Duration:* 2005-2010
   - *Diplomas:* DES
 
