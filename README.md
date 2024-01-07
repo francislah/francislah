@@ -10,11 +10,14 @@ You can follow my progress on the github organization I've created: [SimpleOpenS
 
 # Skills
 Programming languages: C, C++, rust, java/type-script, python
+
 Frameworks: Vue.js, React, Jekyll
+
 SaaS: Appsheet, PowerBI, Microsoft Fabric
 
 # Learning
 Programming languages: Rust
+
 Framework: Tauri
 
 # Contact Me
