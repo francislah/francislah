@@ -9,16 +9,13 @@ This is my personal page for school projects. I am currently contributing most o
 You can follow my progress on the github organization I've created: [SimpleOpenSource](https://github.com/SimpleOpenSource)
 
 # Skills
-Programming languages: C, C++, rust, java/type-script, python
-
-Frameworks: Vue.js, React, Jekyll
-
-SaaS: Appsheet, PowerBI, Microsoft Fabric
+- Programming languages: C, C++, rust, java/type-script, python
+- Frameworks: Vue.js, React, Jekyll
+- SaaS: Appsheet, PowerBI, Microsoft Fabric
 
 # Learning
-Programming languages: Rust
-
-Framework: Tauri
+- Programming languages: Rust
+- Framework: Tauri
 
 # Contact Me
 If you'd like to get in touch, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/francis-lah) or via email at flahoud@student.42quebec.com.
