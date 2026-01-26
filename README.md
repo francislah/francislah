@@ -15,14 +15,14 @@ I mostly contribute on private repositories related to my personnal personal pro
 
 # Skills
 - Programming languages: SQL, Python, C, C++, javascript/typescript
-- Frameworks: Hugo, React, NestJS, DBT
+- Frameworks: Hugo, React, NestJS, Next.js, DBT
 - SaaS: Appsheet, PowerBI, Microsoft Fabric
-- Database: Snowflake, Supabase, Tigerbeetle
-- Tools: Docker, Cursor
+- Database: Snowflake, Supabase, postgres, Tigerbeetle
+- Tools: Docker, Cursor, Kubernetes, Tekton, Git
 
 # Learning
-- Tigerbeetle, React
-- Selfhosting, Docker
+- Tigerbeetle, React (Next.js), Hono
+- Selfhosting, Docker, Kubernetes
 
 # Contact Me
 If you'd like to get in touch, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/francis-lah) or via email at francis.lahoud@proton.me.
